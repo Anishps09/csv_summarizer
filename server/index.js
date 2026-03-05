@@ -1,12 +1,35 @@
-const pool = require("./db");
+require("dotenv").config();
+const express = require("express");
+const morgan = require("morgan");
+const logger = require("./utils/logger");
 
-async function testDB() {
+const pool = require("./db");
+const router = require("./routes/summaryRoutes");
+
+const app = express();
+
+app.use(express.json());
+
+// HTTP logs
+app.use(morgan("combined"));
+
+app.use("/api", router);
+
+app.get("/", async (req, res) => {
   try {
     const result = await pool.query("SELECT now()");
-    console.log("DB Time:", result.rows[0]);
+    res.json({
+      message: "Server is running 🚀",
+      dbTime: result.rows[0],
+    });
   } catch (err) {
-    console.error("DB Error:", err);
+    logger.error(`DB error: ${err.message}`);
+    res.status(500).json({ error: "Database error" });
   }
-}
+});
 
-testDB();
+const PORT = 5000;
+
+app.listen(PORT, () => {
+  logger.info(`Server running on port ${PORT}`);
+});
