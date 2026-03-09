@@ -12,7 +12,7 @@ const router = express.Router();
 
 const upload = multer({ dest: "uploads/" });
 
-router.post("/upload", upload.single("file"), createSummary);
+router.post("/summaries", upload.single("file"), createSummary);
 
 router.get("/summaries", getSummaries);
 

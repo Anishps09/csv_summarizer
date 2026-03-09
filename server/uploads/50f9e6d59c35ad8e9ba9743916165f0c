@@ -1,0 +1,501 @@
+id;month;bank_name;no_of_transactions;amt_of_transactions;no_of_active_costumers
+21970;01-03-2022;The Babasaheb Deshmukh Sahakari Bank Ltd Atpadi;88;8,11;22
+21971;01-03-2022;The Banasknatha Mercantle Co-Operative Bank Ltd;26988;22052,85;2951
+21972;01-03-2022;The Bapunagar Mahila Co-Operative Bank Limited;337;142,79;206
+21973;01-03-2022;The Bardoli Nagrik Sahakari Bank Ltd.;1295;477,71;144
+21974;01-03-2022;The Baroda Central Co-Op Bank Ltd., Baroda;285270;10910,04;92
+21975;01-03-2022;The Baroda City Co.Operative Bank Ltd;1435;490,43;287
+21976;01-03-2022;The Bavla Nagrik Sahkari Bank Ltd;1590;1583,42;595
+21977;01-03-2022;The Kalupur Comm. Co Op Bank Ltd;782966;73588,03;78944
+21978;01-03-2022;The Bellary District Co-Operative Central Bank Ltd.;6589;1347,4;3608
+21979;01-03-2022;The Bhagyalakshmi Mahila Sahakari Bank Ltd.;5995;4019,09;535
+21980;01-03-2022;The Bhagyodaya Co-Op. Bank Ltd.;4947;5614,88;577
+21981;01-03-2022;"The Bhiwani Central Cooperative Bank Ltd;Bhiwani";1613;713,37;738
+21982;01-03-2022;The Bhuj Commercial Co Operative Bank Ltd.;5715;4988,84;437
+21983;01-03-2022;The Bicholim Urban Co-Operative Bank Ltd;5336;768,96;1697
+21984;01-03-2022;The Burdwan Co-Op Bank;217;8,41;130
+21985;01-03-2022;The Business Co Op Bank Ltd,Nashik Road;85746;3167,97;2726
+21986;01-03-2022;The Calicut Co-Operative Urban Bank Ltd;511;19,2;145
+21987;01-03-2022;The Chanasma Nagrik Sahakari Bank Ltd;567;567,51;155
+21988;01-03-2022;The Ashta Peoples Co-Op Bank Ltd Ashta;1214;118,06;162
+21989;01-03-2022;The Andhra Pradesh State Co-Operative Bank Ltd.;5142;903,33;1174
+21990;01-03-2022;The Akola Janata Commercial Co-Op. Bank Ltd., Akola;22627;8483,78;4731
+21991;01-03-2022;The Amaravati Zillha Parishad Shikshak Sah. Bank Ltd Amravati;2826;323,6;1312
+21992;01-03-2022;Suryoday Small Finance Bank Limited;84077;26291,88;21980
+21993;01-03-2022;Svc Co Op Bank Ltd;3242977;62987,93;23780
+21994;01-03-2022;Swatantrya Senani Late Shripal Alase (Kaka) Kurundwad Urban Co-Op Bank Ltd., Kurundwad;118;13,81;42
+21995;01-03-2022;Tamil Nadu State Apex Co-Op. Bank;3338;344,34;3338
+21996;01-03-2022;Tamilnad Mercantile Bank Ltd;909320;210370,62;118901
+21997;01-03-2022;Telangana Grameena Bank;46649;9117,49;16635
+21998;01-03-2022;Textile Traders Cooperative Bank Limited;7535;4931,73;1005
+21999;01-03-2022;Thane Bharat Sahakari Bank Limited;18060;1942,39;3593
+22000;01-03-2022;The Accountant Generals Office Employees Co-Operative Bank Limited;2207;522,62;1790
+22001;01-03-2022;The Adarsh Co-Op. Urban Bank Ltd.;11590;4334,44;1269
+22002;01-03-2022;The Adilabad Dist. Coop. Central Bank Ltd., Adilabad;858;96,35;379
+22003;01-03-2022;The Adinath Co-Operative Bank Ltd.;2100;875,67;830
+22004;01-03-2022;The Ahmedabad District Co-Operative Bank Ltd;671243;36957,23;989
+22005;01-03-2022;The Ahmedabad Mercantile Co-Op. Bank Ltd.;211033;59984,63;2169
+22006;01-03-2022;The Ajara Urban Co-Op. Bank Ltd., Ajara;3029;231,42;629
+22007;01-03-2022;The Akola District Central Co-Operative Bank Ltd., Akola;90021;55021,53;12794
+22008;01-03-2022;The Cherpalcheri Co Operative Urban Bank Ltd;96;0,2;70
+22009;01-03-2022;The Anand Mercantile Co.Operative Bank Ltd;6826;1489,36;3253
+22010;01-03-2022;The Junagadh Commercial Co Operative Bank Ltd;7978;4367,79;2371
+22011;01-03-2022;The Kumbakonam Central Cooperative Bank Ltd;173;7,59;68
+22012;01-03-2022;The Chhapi Nagrik Sahakari Bank Ltd;361;297,3;189
+22013;01-03-2022;The Guntur Co.Operative Urban Bank Ltd;390;73,83;216
+22014;01-03-2022;The Haryana State Co-Operative Apex Bank Ltd.;2971;596,61;837
+22015;01-03-2022;The Hasti Co-Op. Bank Ltd., Dondaicha;176455;11170,07;1437
+22016;01-03-2022;The Jain Sahakari Bank Ltd.;2029;422,72;304
+22017;01-03-2022;The Jalgaon Peoples Co-Op Bank Ltd.;638889;22340,93;7884
+22018;01-03-2022;The Jamkhandi Urban Co-Operative Bank Ltd;5979;133,15;166
+22019;01-03-2022;The Jammu & Kashmir Bank;28383863;1395845,98;1400955
+22020;01-03-2022;The Jampeta Co-Operative Urban Bank Ltd;531;64,14;162
+22021;01-03-2022;"The Jhajjar Central Cooperative Bank Ltd; Jhajjar";177;81,11;74
+22022;01-03-2022;The Jind Central Cooperative Bank Ltd.;708;259,71;257
+22023;01-03-2022;The Kukarwada Nagarik Sahakari Bank Ltd;7916;9941,18;2118
+22024;01-03-2022;The Kranthi Co-Operative Urban Bank Ltd.;750;123,67;219
+22025;01-03-2022;The Kolhapur Urban Co-Op. Bank Ltd.;5724;1093,31;5355
+22026;01-03-2022;The Kolar And Chikballapura District Central Cooperative Bank Ltd., Kolar;508;85,97;357
+22027;01-03-2022;The Kodagu District Co-Op Central Bank Ltd.;1368;177,06;790
+22028;01-03-2022;The Karnavati Co-Op. Bank Ltd.;14856;18459,54;197
+22029;01-03-2022;The Karnataka State Cooperative Apex Bank Ltd.;137779;4887,3;21801
+22030;01-03-2022;The Kancheepuram Central Cooperative Bank Ltd.,;569;28,12;486
+22031;01-03-2022;The Kalyan Janata Sahakari Bank Ltd.;1230820;21802,5;3959
+22032;01-03-2022;The Gujarat State Co-Operative Bank Ltd.;242253;9702,08;5497
+22033;01-03-2022;The Greater Bombay Co-Op Bank Ltd;25189;4155,19;4823
+22034;01-03-2022;The Godhra Urban Co Op Bank;9622;3929,58;3748
+22035;01-03-2022;The Gandhinagar Nagarik Co-Op. Bank Ltd.;5282;443,36;216
+22036;01-03-2022;The Chikhli Urban Co-Op. Bank Ltd.;61794;21969,12;6857
+22037;01-03-2022;The Coimbatore District Central Co-Operative Bank Ltd.;652;31,21;202
+22038;01-03-2022;The Commercial Co-Op. Bank Ltd., Kolhapur;2231;236,34;409
+22039;01-03-2022;Surat National Co-Op Bank Ltd.;28988;26020,16;3796
+22040;01-03-2022;The Commercial Co-Operative Bank Ltd -Jamnagar;7586;6274,86;672
+22041;01-03-2022;The Co-Operative Bank Of Mehsana Ltd.;2591;1114,9;359
+22042;01-03-2022;The Co-Operative Bank Of Rajkot Ltd.;15567;7382,43;7062
+22043;01-03-2022;The Cosmos Co-Op Bank Limited;3608754;96781,31;156819
+22044;01-03-2022;The Cuddalore District Central Cooperative Bank Ltd.;341;15,15;172
+22045;01-03-2022;The Maharashtra Mantralaya & Allied Offices Co-Operative Bank Ltd;1515;167,64;719
+22046;01-03-2022;The Dahod Mercantile Co Op Bank Ltd;3021;3670,06;337
+22047;01-03-2022;The Davangere-Harihara Urban Sahakari Bank Niyamit, Davangere;141;22,77;33
+22048;01-03-2022;The Dharmapuri District Central Co-Operative Bank Ltd.;1132;58,76;541
+22049;01-03-2022;The District Co-Operative Central Bank Ltd., Visakhapatnam;392;40,2;235
+22050;01-03-2022;The Eenadu Co-Op. Urban Bank Ltd.;1547;430,7;234
+22051;01-03-2022;The Erode District Central Co-Operative Bank Ltd.;615;27,82;317
+22052;01-03-2022;The Financial Co-Operative Bank Ltd.;2970;521,1;417
+22053;01-03-2022;The Gandevi People'S Co-Op.Bank Ltd;1883;1411,94;1193
+22054;01-03-2022;The Gandhidham Co Operative Bank Ltd;1685;1386,94;241
+22055;01-03-2022;The Gandhidham Mercantile Co-Operative Bank Ltd.;3816;1731,76;435
+22056;01-03-2022;The Dahod Urban Co.-Op. Bank Ltd.,Dahod;6565;9174,93;1808
+22057;01-03-2022;Sundarlal Sawji Urban Co-Op Bank Ltd., Jintur;16032;9420,26;6348
+22058;01-03-2022;Sardar Vallabhbhahi Sahakari Bank Ltd;6138;1192,11;672
+22059;01-03-2022;State Bank Of India;1355567328;36260651,59;84455157
+22060;01-03-2022;Dhanera Mercantile Co-Operative Bank Ltd.;6600;8667,91;699
+22061;01-03-2022;Dhanlaxmi Bank Limited;57046;13616,06;30214
+22062;01-03-2022;Dindigul Central Cooperative Bank Ltd;328;16,6;128
+22063;01-03-2022;Dmk Jaoli Bank Ltd;14586;1838,57;13579
+22064;01-03-2022;Doha Bank Qpsc;3305;1460,53;2230
+22065;01-03-2022;Dombivli Nagari Sahakari Bank Ltd.;2226609;137276,3;1457
+22066;01-03-2022;Durgapur Steel Peoples' Co-Op. Bank Ltd.;1944;235;1473
+22067;01-03-2022;Equitas Small Finance Bank Limited;276776;96,63;75850
+22068;01-03-2022;Esaf Small Finance Bank;134760;27703,21;29359
+22069;01-03-2022;Federal Bank Ltd.;6715775;1021689,25;1377413
+22070;01-03-2022;Fincare Small Finance Bank;212066;27238,23;179634
+22071;01-03-2022;Fingrowth Co-Operative Bank Ltd.;10850;5905,2;2840
+22072;01-03-2022;Deutsche Bank;469832;30963,78;28483
+22073;01-03-2022;Fino Payments Bank;24174939;150664,53;1124788
+22074;01-03-2022;G.P. Parsik Janata Sahakari Bank Ltd.;2018573;43937,23;3909
+22075;01-03-2022;Godavari Urabn Co.Operative Bank Ltd,Nashik;29;1,47;19
+22076;01-03-2022;Guardian Souharda Sahakari Bank Niyamita;1140;54,95;170
+22077;01-03-2022;Gujarat Ambuja Co-Op Bank Ltd;2036;1683,69;240
+22078;01-03-2022;Hdfc Bank Ltd.;476004070;20542323,37;14478961
+22079;01-03-2022;Himachal Pradesh Gramin Bank;139676;160697,56;35630
+22080;01-03-2022;Himatnagar Nagrik Sahkari Bank Ltd;3497;3020,61;1605
+22081;01-03-2022;Hsbc;3761848;235515,1;91597
+22082;01-03-2022;Hutatma Sahkari Bank Ltd., Walwa;2094;443,97;520
+22083;01-03-2022;Icici Bank Ltd;310525751;17730951,53;8056099
+22084;01-03-2022;Idbi Bank Ltd;75255722;1897937,56;334201
+22085;01-03-2022;Idfc First Bank Ltd.;39112510;2126476,38;691758
+22086;01-03-2022;G S Mahanagar Co-Op. Bank Ltd.;937658;22421,16;5088
+22087;01-03-2022;India Post Payments Bank Limited;5784606;215102,52;4425489
+22088;01-03-2022;Deogiri Nagari Sahakari Bank Ltd. Aurangabad;13803;3778,57;2658
+22089;01-03-2022;Dcb Bank Ltd.;2295359;187287,83;60758
+22090;01-03-2022;Baran Nagrik Sahkari Bank Ltd.;2628;3324,49;1025
+22091;01-03-2022;Baroda Up Gramin Bank;244525;19898,78;174741
+22092;01-03-2022;Bassein Catholic Co-Op. Bank Ltd;88860;24788,67;53898
+22093;01-03-2022;Bhadradri Co Operative Urban Bank Ltd;33410;1570,86;2911
+22094;01-03-2022;Bhagini Nivedita Sahakari Bank Ltd., Pune;259795;4611,03;17276
+22095;01-03-2022;Bharat Bank Cooperative (Mum) Ltd.;2671770;144927,79;40898
+22096;01-03-2022;Bhavana Rishi Cooperative Urban Bank Ltd;1791;537,5;75
+22097;01-03-2022;Bhavnagar District Co-Operative Bank Ltd;5044;1621,43;3256
+22098;01-03-2022;Bhilwara Urban Cooperative Bank Ltd;10152;528,2;473
+22099;01-03-2022;Bombay Mercantile Co-Operative Bank Limited;5664;1451,07;1406
+22100;01-03-2022;C G Rajya Sahakari Bank (Mydt);14171;916,33;549
+22101;01-03-2022;Canara Bank;255032436;6356591,62;1202197
+22102;01-03-2022;"Deendayal Nagari Sahkari Bank Ltd ;Ambajogai";1652;313,61;500
+22103;01-03-2022;Capital Small Finance Bank Limited;438883;52887,3;18105
+22104;01-03-2022;Central Bank Of India;108891039;1899201,3;322765
+22105;01-03-2022;Chaitanya Godavari Grameena Bank;2176073;35702,15;115099
+22106;01-03-2022;Chikkamagaluru District Central Co-Op Bank Ltd.;871;125,33;160
+22107;01-03-2022;Citi Bank;15562553;594456,54;861300
+22108;01-03-2022;Citizencredit Co-Op. Bank Ltd.;25727;2156,09;6148
+22109;01-03-2022;Citizens Co-Operative Bank Ltd., Rajkot;8931;9750,19;614
+22110;01-03-2022;City Union Bank;23066837;655225,22;486321
+22111;01-03-2022;Coastal Local Area Bank Ltd;6480;2921,68;4351
+22112;01-03-2022;Colour Merchants Co-Operative Bank Ltd;256;39,18;38
+22113;01-03-2022;Dakshin Bihar Gramin Bank;47210;8310,65;17345
+22114;01-03-2022;Dausa Urban Cooperative Bank Ltd;1746;1835,48;249
+22115;01-03-2022;Dbs Bank Limited;17886828;457127,91;805982
+22116;01-03-2022;Catholic Syrian Bank Limited;3142723;96780,06;54153
+22117;01-03-2022;Indian Bank;121426409;2461421,94;1022518
+22118;01-03-2022;Indian Overseas Bank;115284165;2489543,27;186207
+22119;01-03-2022;Indore Cloth Market Co-Op. Bank Ltd.;278;104,43;112
+22120;01-03-2022;Kota Nagrik Sahkari Bank Ltd;172;26,2;153
+22121;01-03-2022;Kotak Mahindra Bank Ltd;222807150;8152964,48;10695046
+22122;01-03-2022;Koyana Sahakari Bank Ltd., Karad;12;1,18;8
+22123;01-03-2022;Kozhikode District Co-Op. Bank;23165;3157,02;19463
+22124;01-03-2022;Krishna Bhima Samruddhi Local Area Bank;2864;649,62;979
+22125;01-03-2022;Lakhimpur Urban Co-Op.Bank Ltd.;2777;221,75;1565
+22126;01-03-2022;Latur Urban Co-Op. Bank Ltd., Latur;6653;1852,15;2157
+22127;01-03-2022;Loknete Dattaji Patil Sahkari Bank Ltd,Lasalgaon;543;77,37;121
+22128;01-03-2022;Lonavala Sahakari Bank Ltd;88297;2047,78;366
+22129;01-03-2022;M S Co-Operative Bank Limited;5375;665,8;440
+22130;01-03-2022;Madurai District Central Co-Operative Bank Ltd;374;14,9;148
+22131;01-03-2022;Mahalakshmi Co-Operative Bank Ltd Udupi;273;22,62;114
+22132;01-03-2022;Kolhapur Mahila Sahakari Bank Ltd;961;389,16;672
+22133;01-03-2022;Mahanagar Nagrik Sahakari Bankï¿½ï¿½ï;328;146,4;246
+22134;01-03-2022;Mahesh Sahakari Bank Ltd., Pune;9553;1008,72;3611
+22135;01-03-2022;Mahila Nagrik Sahakari Bank Maryadit Mahasamund  C.G.;3;0,15;1
+22136;01-03-2022;Manipur Rural Bank;90989;605,59;193
+22137;01-03-2022;Manjeri Co-Op Urban Bank Ltd.;7791;2060,41;2146
+22138;01-03-2022;Mann Deshi Mahila Sahakari Bank Ltd., Mhaswad;47627;634,81;1313
+22139;01-03-2022;Mansing Co-Op. Bank Ltd., Dudhondi;1316;153,89;50
+22140;01-03-2022;Manvi Pattana Souharda Sahakari Bank Ni.;2093;600,39;400
+22141;01-03-2022;Maratha Co-Operative Bank Ltd., Belgaum;1019;220,72;163
+22142;01-03-2022;Meghalaya Rural Bank;154911;3480,18;1886
+22143;01-03-2022;Mehsana Urban Co-Op. Bank Limited;585896;15,28;2981
+22144;01-03-2022;Model Co-Op. Bank Ltd.;11423;1111,89;2857
+22145;01-03-2022;Nagrik Sahakari Bank Mydt Vidisha;624;167,28;77
+22146;01-03-2022;Maharashtra Gramin Bank;116106;10813,06;3679
+22147;01-03-2022;Kokan Mercantile Co-Op Bank Ltd;12220;1868,11;2084
+22148;01-03-2022;Koilkuntla Co Operative Bank Pvt Ltd;87;15,81;34
+22149;01-03-2022;Kerala State Co-Operative Bank Ltd.;3671;481,54;535
+22150;01-03-2022;Indore Paraspar Sahakari Bank Ltd.;6297;259,64;871
+22151;01-03-2022;Indraprastha Sehkari Bank Ltd;2488;1106,18;426
+22152;01-03-2022;Indusind Bank Ltd;46797203;2320475;878402
+22153;01-03-2022;J & K Grameen Bank;465648;21427,88;56110
+22154;01-03-2022;J&K State Co-Operative Bank;1781;535,81;778
+22155;01-03-2022;Jalgaon Janata Sahakari Bank Ltd., Jalgaon;505449;14717,52;4121
+22156;01-03-2022;Jalna Merchants Co Op Bank Ltd., Jalna.;121806;3814,06;2312
+22157;01-03-2022;Jana Small Finance Bank Limited;162784;42545,57;138907
+22158;01-03-2022;Janakalyan Sahakari Bank Ltd.;41897;7829,31;15898
+22159;01-03-2022;Janata Sahakari Bank Ltd, Ajara;1029;204,82;181
+22160;01-03-2022;Janatha Seva Bank;1130;126,18;987
+22161;01-03-2022;Janta Sahakari Bank Pune;2066283;33097,77;35183
+22162;01-03-2022;Jijamata Mahila Sah Bank Ltd Pune;29498;456,14;259
+22163;01-03-2022;Jila Sahakari Kendriya Bank Maryadit Durg;5298;657,24;2543
+22164;01-03-2022;Jila Sahakari Kendriya Bank Maryadit Khargone;3717;356,45;2431
+22165;01-03-2022;Jio Payments Bank Limited;392855;4266,52;16872
+22166;01-03-2022;Jivan Commercial Co-Operative Bank Limited;5752;2091,87;412
+22167;01-03-2022;Jodhpur Nagrik Sahakari Bank Ltd.;2632;976,67;1508
+22168;01-03-2022;Jogindra Central Cooperative Bank Ltd. Solan H.P.;2107;589,46;664
+22169;01-03-2022;Kallappanna Awade Ichalkaranji Janata Sah. Bank Ltd., Ichalkaranji;749437;25903,5;23791
+22170;01-03-2022;Kankaria Maninagar Nagrik Sahakari Bank Ltd.;11148;1675,78;2485
+22171;01-03-2022;Kanyakumari District Central Co-Operative Bank Ltd.;22;0,76;18
+22172;01-03-2022;Karnatak Central Co-Op Bank Ltd, Dharwad;861;439,37;406
+22173;01-03-2022;Karnataka Bank Ltd;2110539;405959,59;44750
+22174;01-03-2022;Karnataka Vikas Grameen Bank;5019125;70861,7;67656
+22175;01-03-2022;Karur Vysya Bank Ltd;31616541;1448677,39;343044
+22176;01-03-2022;Kerala Gramin Bank;91203;9562,04;14718
+22177;01-03-2022;Bank Of Maharashtra;96982672;1527729,53;1628838
+22178;01-03-2022;Suco Souharda Sahakari Bank Ltd.;7186;8407,41;1222
+22179;01-03-2022;Bank Of India;20212240;1492136,39;326803
+22180;01-03-2022;Bank Of Bahrain & Kuwait B S C;252;28,53;65
+22181;01-03-2022;Sbm Bank India Ltd;11236;3358,86;9587
+22182;01-03-2022;Saurashtra Gramin Bank;43711;16407,2;10768
+22183;01-03-2022;Sarvodaya Nagarik Sahakari Bank Ltd. Himatnagar;3761;2445,51;2694
+22184;01-03-2022;Sarvodaya Commercial Co-Operative Bank Ltd Mehsana;22175;10473,27;1708
+22185;01-03-2022;Sarva Haryana Gramin Bank;29039;5265,56;21025
+22186;01-03-2022;Sardargunj Mercantile Co-Operative Bank Ltd., Anand;5294;2417,81;685
+22187;01-03-2022;The Maharashtra State Co-Operative Bank;15740;1694,96;5929
+22188;01-03-2022;Sardar Singh Nagrik Sahkari Bank Mydt Tikamgarh;949;356,24;123
+22189;01-03-2022;Sardar Bhiladwala Pardi Peoples Co-Operative Bank Ltd.;34237;6297,68;1509
+22190;01-03-2022;Saraswat Co-Op. Bank Ltd;11974984;330706,66;386177
+22191;01-03-2022;Saraspur Nagari Co-Op. Bank Ltd.;16326;9544,68;11248
+22192;01-03-2022;Sant Sopankaka Sahakari Bank Ltd.,Saswad.;1599;983,81;315
+22193;01-03-2022;Sharad Sahakari Bank Ltd.;18231;3063,77;3399
+22194;01-03-2022;Sanmitra Mahila Nagari Sahakari Bank Maryadit;787;212,36;519
+22195;01-03-2022;Samruddhi Co-Op. Bank Ltd., Nagpur;687;64,05;141
+22196;01-03-2022;Sampada Sahakari Bank Ltd Pune;5983;896,47;2169
+22197;01-03-2022;Samata Cooperative Development Bank Ltd;222;10,66;201
+22198;01-03-2022;Samarth Sahakari Bank Maryadit,Jalna.;6281;917,33;3428
+22199;01-03-2022;Samarth Sahakari Bank Ltd., Solapur;302005;5622,54;219649
+22200;01-03-2022;Sadhana Sahakari Bank Ltd.;7331;1241,3;1382
+22201;01-03-2022;Sadalga Urban Souharda Sahakari Bank Niyamit.,Sadalga;286;13,97;91
+22202;01-03-2022;Rbl Bank Limited;14615914;560480,74;178276
+22203;01-03-2022;Rani Channamma Mahila Sahakari Bank Niyamit, Belagavi;23828;632,86;1914
+22204;01-03-2022;Ramanathapuram Dcc Bank;271;11,36;123
+22205;01-03-2022;Rajkot Peoples Co-Operative Bank Ltd.;12674;9123,14;1291
+22206;01-03-2022;Rajkot Nagarik Sahakari Bank Ltd.;469503;25353,59;43477
+22207;01-03-2022;Sandiur Pattana Souharda Sahakari Bank Ni.;12979;596,94;614
+22208;01-03-2022;Rajgurunagar Sahakari Bank Ltd.;35718;11502,01;10633
+22209;01-03-2022;Shinhan Bank;20107;6207,16;1733
+22210;01-03-2022;Shree Basaveshwar Urban Co Operative Bank Ltd.,Ranebennur;24;2;21
+22211;01-03-2022;Sri Sudha Co-Operative Bank Ltd;140;26,02;87
+22212;01-03-2022;Sri Rama Co-Op Bank Ltd;13;0,53;7
+22213;01-03-2022;Sri Ganapathi Urban Co-Op. Bank Ltd.,ï¿½ï¿½ï;68;4,57;23
+22214;01-03-2022;Sreenidhi Souharda Sahakari Bank Niyamitha;273;26,26;71
+22215;01-03-2022;Sree Charan Souhardha Co-Operative Bank Ltd.;23774;238,5;2565
+22216;01-03-2022;South Indian Bank;23624919;878276,34;1258581
+22217;01-03-2022;Sivagangai District Central Co-Operative Bank Ltd;58;2,26;30
+22218;01-03-2022;Sindhudurg District Central Co. Operative Bank Ltd. Sindhudurg;8730;846,06;3069
+22219;01-03-2022;Sikkim State Co-Operative Bank Ltd;145;19,58;49
+22220;01-03-2022;Shrikrishna Co-Operative Bank Ltd., Umred;51;51,58;23
+22221;01-03-2022;Shri Shivayogi Murughendra Swami Urbanco-Op. Bank Ltd., Athani;60;41,88;23
+22222;01-03-2022;Shri Rajkot District Central Co-Op Bank Ltd.;18190;2181,39;16405
+22223;01-03-2022;Shivalik Small Finance Bank;18719;12157,17;3428
+22224;01-03-2022;Shri Mahila Sewa Sahakari Bank Ltd.;401;27,8;214
+22225;01-03-2022;Shri Janata Sahakari Bank Ltd Halol;6344;1480,89;971
+22226;01-03-2022;Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd., Beed;347250;29211,1;10917
+22227;01-03-2022;Shri Arihant Co-Op Bank Ltd;9666;3614,16;1778
+22228;01-03-2022;Shri Anand Nagari Sahakari Bank Ltd.;292;32,57;92
+22229;01-03-2022;Shree Warana Bank Ltd.;7442;1971,68;3860
+22230;01-03-2022;Shree Talaja Nagrik Shakari Bank Ltd.;532;392,86;98
+22231;01-03-2022;Shree Sharada Sahakari Bank Ltd., Pune;1561;223,06;451
+22232;01-03-2022;Shree Panchganga Nagari Sahakari Bank Ltd.;2292;814,92;519
+22233;01-03-2022;Shree Mahuva Nagrik Sahakari Bank Ltd.;858;612,79;122
+22234;01-03-2022;Shree Mahavir Sahakari Bank Ltd.;32813;516,9;106
+22235;01-03-2022;Shree Kadi Nagarik Sahakari Bank Ltd.;7801;28218,96;1320
+22236;01-03-2022;Shree Dharati Co-Operative Bank Ltd.;6781;1008,42;1293
+22237;01-03-2022;Shri Mahalaxmi Co-Op. Bank Ltd., Kolhapur;3134;276,17;596
+22238;01-03-2022;Rajasthan Marudhara Gramin Bank;229499;59151,93;39662
+22239;01-03-2022;"Rajarambapu Sahakari Bank Ltd; Peth";10319;6081,83;2191
+22240;01-03-2022;Rajapur Urban Co-Op. Bank Ltd.;1080;119,88;210
+22241;01-03-2022;Abhinav Sahakari Bank Ltd, Dombivali;6299;1393,28;5393
+22242;01-03-2022;Abhyudaya Co-Op. Bank Ltd.;3631910;73381,84;199264
+22243;01-03-2022;Adarsh Co-Operative Bank;190463;18720,01;8223
+22244;01-03-2022;Adarsh Mahila Nagari Sahkari Bank Ltd Aurangabad;501;35,4;72
+22245;01-03-2022;Agrasen Bank;2561;1361,25;1923
+22246;01-03-2022;Ahmednagar Merchants Co-Op. Bank Ltd., Ahmednagar;14280;5661,91;1666
+22247;01-03-2022;Ahmednagar Shahar Sahakari Bank Ltd.;3213;339,05;2005
+22248;01-03-2022;Airtel Payments Bank;82079279;1127613,33;5825485
+22249;01-03-2022;Akhand Anand Co-Op. Bank Ltd., Surat;10729;5156,28;1606
+22250;01-03-2022;Ambajogai Peoples Co Op Bank Ltd.,Ambajogai;3065;1372,81;620
+22251;01-03-2022;Ambarnath Jai-Hindï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Co-Opera;13953;2758,34;2050
+22252;01-03-2022;Amreli Jilla Madhyastha Sahakari Bank Ltd.;85326;11649,06;7517
+22253;01-03-2022;Abhinandan Urban Co-Op Bank Ltd., Amravati;2014;765,95;288
+22254;01-03-2022;Amreli Nagarik Sahakari Bank Ltd.;879;1587,98;295
+22255;01-03-2022;Apna Sahakari Bank Ltd.;252024;21023,46;2077
+22256;01-03-2022;Arihant Urban Coop Bank Ltd;14;3,04;11
+22257;01-03-2022;Arvind Sahakari Bank Ltd;22088;957,92;404
+22258;01-03-2022;Assam Gramin Vikash Bank;629311;14574,05;4332
+22259;01-03-2022;Associate Co-Op Bank Ltd.;9006;7530,58;4393
+22260;01-03-2022;Au Small Finance Bank Limited;13301050;1055646,77;193347
+22261;01-03-2022;Axis Bank Ltd;307880325;12315360,4;4121848
+22262;01-03-2022;Balasinor Nagarik Sahakari Bank Ltd;729;695,29;253
+22263;01-03-2022;Balotra Urban Co-Operative Bank Ltd.;15106;7947,11;1752
+22264;01-03-2022;Balusseri Co Operative Urban Bank Ltd;11;1,24;8
+22265;01-03-2022;Banaskantha District Central Co-Op. Bank Ltd.;22811;20385,51;160
+22266;01-03-2022;Bandhan Bank;21107833;967865,16;160425
+22267;01-03-2022;Andhra Pradesh Grameena Vikas Bank;101698;31810,25;47606
+22268;01-03-2022;A P Mahesh Co-Op Urban Bank Ltd;9911;3701,19;7486
+22269;01-03-2022;Nav Jeevan Co-Op. Bank Ltd.;4569;3175,55;807
+22270;01-03-2022;Navanagara Urban Co Op Bank Ltd;885;127,18;256
+22271;01-03-2022;Pusad Urban Bank;2208;178,86;1913
+22272;01-03-2022;Punjab National Bank;230421247;4713280,58;670770
+22273;01-03-2022;Punjab & Sind Bank;63134;10026,34;2934
+22274;01-03-2022;Pune People'S Co Op Bank Ltd;16528;6647,69;7162
+22275;01-03-2022;Pune Cantonment Sahakari Bank Ltd.;74601;1293,44;5785
+22276;01-03-2022;Priyadarshani Nagari Sahakari Bank Ltd., Jalna;522874;5249,42;3550
+22277;01-03-2022;Prime Co-Op. Bank Ltd.;155763;42968,39;503
+22278;01-03-2022;Prerana Co Op Bank Ltd.;7058;752,21;3106
+22279;01-03-2022;Pragati Sahakari Bank Ltd.Vadodara;5008;3823,65;2043
+22280;01-03-2022;Porbandar Commercial Co Op Bank Ltd;1044;1433,49;113
+22281;01-03-2022;Poornawadi Nagrik Sah. Bank M., Beed;72568;2396,86;3128
+22282;01-03-2022;Pochampally Co-Operative Urban Bank Ltd;317261;15465,67;11984
+22283;01-03-2022;People'S Urban Co-Operative Bank Ltd.;1226;166,95;288
+22284;01-03-2022;Peoples Co Op Bank Ltd Dholka;878;672,6;390
+22285;01-03-2022;Paytm Payments Bank Limited;296521243;3163552,62;15123246
+22286;01-03-2022;Pavana Sahakari Bank Ltd.;6455;721,13;4971
+22287;01-03-2022;Patan Nagarik Sahakari Bank Ltd;1736;590,72;223
+22288;01-03-2022;Palus Sahakari Bank Ltd., Palus;7377;1752,52;1412
+22289;01-03-2022;Pali Urban Co Operative Bank Ltd.;4913;2607,99;1264
+22290;01-03-2022;Nutan Nagrik Sahakari Bank Ltd;149247;26112,65;12188
+22291;01-03-2022;Nsdl Payments Bank;767572;4447,1;64930
+22292;01-03-2022;North East Small Finance Bank Limited;4844;355,15;1332
+22293;01-03-2022;Nkgsb Co-Operative Bank Limited;197568;45840,84;113165
+22294;01-03-2022;Nidhi Co-Op. Bank Ltd.;2462;1996,13;1153
+22295;01-03-2022;New India Co-Operative Bank Ltd.;7020;1987,23;1843
+22296;01-03-2022;Navsarjan Indl Co-Op Bank Ltd;967;251,14;369
+22297;01-03-2022;Navi Mumbai Co-Op Bank Ltd;6162;970,86;3352
+22298;01-03-2022;Bank Of Baroda;287628548;6659378,68;3914300
+22299;01-03-2022;The Malad Sahakari Bank Limited;60805;1533,22;665
+22300;01-03-2022;Tripura Gramin Bank;412336;10317,55;672
+22301;01-03-2022;The Mandvi Nagrik Sahakari Bank Ltd.;381;69,06;108
+22302;01-03-2022;Nagrik Sahkari Bank Maryadit Gwalior;654;74,56;142
+22303;01-03-2022;Tjsb Sahakari Bank Ltd;4621892;79262,01;15144
+22304;01-03-2022;Tiruvannamalai District Central Co-Operative Bank Ltd.;358;16,47;199
+22305;01-03-2022;Tirupati Urban Co-Op. Bank Ltd., Nagpur;6628;1235,16;4581
+22306;01-03-2022;Tirunelveli District Central Co-Operative Bank Ltd.;199;8,63;118
+22307;01-03-2022;Theï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Newï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Urba;15622;2353,52;1621
+22308;01-03-2022;The Zoroastian Co-Operative Bank Ltd;3837;1043,76;1445
+22309;01-03-2022;The Wayanad District Co-Operative Bank Ltd.;1889;850,7;1586
+22310;01-03-2022;The Washim Urban Co-Operative Bank Ltd;1559;441,22;272
+22311;01-03-2022;The Vishweshwar Sahakari Bank Ltd., Pune;375858;7194,28;1337
+22312;01-03-2022;The Virudhunagar District Central Cooperative Bank Ltd.,;156;6,62;70
+22313;01-03-2022;The Vijay Co-Operative Bank Ltd.;2055;163,79;779
+22314;01-03-2022;The Veraval Peoples Co Op Bank Ltd;8484;6399,44;2090
+22315;01-03-2022;The Veraval Mercantile Co-Operative Bank Ltd;6327;2128,7;1369
+22316;01-03-2022;The Vellore District Central Co-Operative Bank Ltd.;888;61,62;687
+22317;01-03-2022;The Varachha Co-Op. Bank Ltd., Surat;85394;48316,09;10941
+22318;01-03-2022;The Urban Co-Op. Bank Ltd., Dharangaon;64599;961,42;1894
+22319;01-03-2022;The Union Co-Op. Bank Ltd;4971;3518,94;691
+22320;01-03-2022;The Una People'S Co-Op. Bank Ltd.;2075;1286,36;437
+22321;01-03-2022;The Udupi Co-Operative Town Bank Ltd.;1256;119,44;868
+22322;01-03-2022;The Udaipur Urban Cooperative Bank Ltd.;31696;5001,03;2878
+22323;01-03-2022;The Udaipur Mahila Urban Co- Op Bank Ltd;35497;1516,91;1934
+22324;01-03-2022;The Udaipur Mahila Samridhi Urban Co-Op. Bank Ltd.;20243;1048,29;1087
+22325;01-03-2022;Tripura State Co-Operative Bank Ltd.;3544;505,28;2163
+22326;01-03-2022;Tumkur Grain Merchants Co-Op. Bank Ltd.;7319;3399,89;2017
+22327;01-03-2022;Uco Bank;55492462;1135683,37;559630
+22328;01-03-2022;Ujjivan Small Finance Bank Limited;13226621;308184,47;676377
+22329;01-03-2022;The Malviya Urban Cooperative Bank Ltd;47;3,52;30
+22330;01-03-2022;Yes Bank Limited;1687322;705640,17;376707
+22331;01-03-2022;Woori Bank;663;217,52;525
+22332;01-03-2022;Wardhaman Urban Co-Op Bank Ltd.;1549;346,2;485
+22333;01-03-2022;Warangal District Central Co Operative Bank Ltd.,;128;14,48;38
+22334;01-03-2022;Wana Nagrik Sahakaribank Ltd Hinganghat;69;43,08;20
+22335;01-03-2022;Villupuram District Central Cooperative Bank Ltd.;746;91,91;558
+22336;01-03-2022;Vikramaditya Nagrik Sahakari Bank;5896;4548,18;434
+22337;01-03-2022;Vikas Souharda Co-Operative Bank Ltd.;89471;4705,38;6342
+22338;01-03-2022;Vijayapura Dcc Bank Ltd., Vijayapura;2778;1722,34;1024
+22339;01-03-2022;Vijay Commercial Co-Op. Bank Ltd.;1990;722,57;420
+22340;01-03-2022;The Tiruchirappalli  District Central Co-Operative Bank Ltd.;1127;55,31;678
+22341;01-03-2022;Vidarbha Merchants Urban Co-Op Bank Ltd.;5551;14173,8;6
+22342;01-03-2022;Vasai Vikas Sahakari Bank Ltd.;15671;3710;2745
+22343;01-03-2022;Vasai Janata Sahakari Bank Ltd.;7851;1682,79;3460
+22344;01-03-2022;Vardhaman (Mahila) Co-Operative Urban Bank Ltd;629;101,47;482
+22345;01-03-2022;Valsad District Central Co-Op Bank Ltd., Valsad;3896;1156,45;327
+22346;01-03-2022;Valmiki Urban Co Op Bank Ltd.,Pathri;15376;189,19;193
+22347;01-03-2022;Vaishya Sahakari Bank Ltd.,Mumbai;1385;141,73;200
+22348;01-03-2022;Vaishya Nagari Saha Bank Ltd Parbhani;16077;13031,37;674
+22349;01-03-2022;Uttarakhand Gramin Bank;53498;6320,35;1234
+22350;01-03-2022;Utkarsh Small Finance Bank;57627;10565,98;55273
+22351;01-03-2022;Unjha Nagarik Sahakari Bank Ltd.;1636;4796,5;588
+22352;01-03-2022;Union Bank Of India;343534441;8226718,15;12162218
+22353;01-03-2022;Veerashaiva Sahakari Bank Ltd;7060;278,09;1146
+22354;01-03-2022;The Thrissur District Co-Op. Bank Ltd.;12310;2927,18;9376
+22355;01-03-2022;Nainital Bank Limited;4;0,18;3
+22356;01-03-2022;The Thanjavur Central Co-Operative Bank Ltd;137;6,14;78
+22357;01-03-2022;The Pratap Co-Op. Bank Ltd;1421;192,2;281
+22358;01-03-2022;The Ponani Co-Operative Urban Bank Ltd;80;3,73;18
+22359;01-03-2022;The Pimpalgaon Merchant Cooperative Bank Ltd;2078;415,93;363
+22360;01-03-2022;The Panipat Urban Co-Operaive Bank Ltd.;22811;30289,75;1910
+22361;01-03-2022;The Panipat Central Cooperative Bank Ltd;552;201,98;181
+22362;01-03-2022;The Panchsheel Merc. Co. Op. Bank Ltd.;965;93,71;132
+22363;01-03-2022;The Panchmahal District Co-Op Bank Ltd;7930;3234,68;1395
+22364;01-03-2022;The Ottapalam Co Operative Urban Bank Ltd.;3609;547,96;1395
+22365;01-03-2022;The Nilgiris District Central Co Operative Bank Ltd;245;23,12;89
+22366;01-03-2022;The Nawanagar Co-Operative Bank Ltd.;23966;22049,22;7868
+22367;01-03-2022;The Navnirman Co Op Bank Ltd;22467;21644,57;1978
+22368;01-03-2022;The Naval Dockyard Co-Op Bank Ltd.;13424;1281,14;6836
+22369;01-03-2022;The Naroda Nagrik Co-Operative Bank Ltd.;4337;8552,35;1313
+22370;01-03-2022;The Nandura Urban Co-Op Bank Limited;68269;6597;1359
+22371;01-03-2022;The Mysore And Chamarajanagar Distt Co Op Central Bank Ltd Mysuru;1138;228,32;1113
+22372;01-03-2022;The Muslim Co-Operative Bank Ltd., Pune;26777;2504,93;1331
+22373;01-03-2022;The Municipal Co-Operative Bank Ltd., Mumbai;15848;1927,67;12547
+22374;01-03-2022;The Modasa Nagarik Sahakari Bank Ltd;2609;1901,16;280
+22375;01-03-2022;The Meghalaya Co-Operative Apex Bank Ltd.;8789;1008,28;6481
+22376;01-03-2022;The Mattancherry Sarvajanik Co- Op Bank Ltd.;970;63,28;80
+22377;01-03-2022;The Mangalore Co-Operative Town Bank Ltd;354;82,86;218
+22378;01-03-2022;The Mangalore Catholic Co-Operative Bank;2809;472,8;777
+22379;01-03-2022;The Thoothukudi District Central Cooperative Bank Limited.,;178;8,01;65
+22380;01-03-2022;The Puddukottai District Central Cooeprative Bank Ltd;280;12,26;27
+22381;01-03-2022;The Punjab State Cooperative Bank Ltd;463;89,69;140
+22382;01-03-2022;The Nilambur Co-Operative Urban Bank Ltd.;19284;3715,81;7352
+22383;01-03-2022;The Raipur Urban Mercantile Co-Op Bank Ltd, Raipur (C.G.);427;136,27;62
+22384;01-03-2022;The Thane District Central Co.Op.Bank Ltd;20042;2253,1;5402
+22385;01-03-2022;The Railway Emp Co-Op Bank Ltd., Jaipur;537;1339,73;389
+22386;01-03-2022;The Sutex Co-Op Bank Ltd;47045;20288,45;5354
+22387;01-03-2022;The Surat Mercantile Co Op Bank Ltd;4137;1692,31;614
+22388;01-03-2022;The Surat District Co-Op Bank Ltd.;12828;3707,55;5150
+22389;01-03-2022;The Sultan'S Battery Co-Operative Urban Bank Ltd.;1808;128,79;1463
+22390;01-03-2022;The Ssk Co Opertive Bank Ltd;27268;679,48;70
+22391;01-03-2022;The Sonepat Central Co-Op Bank Ltd. Sonepat;476;155,07;184
+22392;01-03-2022;The Sirsi Urban Sahakari Bank Ltd;1625;215,19;260
+22393;01-03-2022;The Shirpur Peoples Co-Op Bank Ltd.;8510;926,3;1810
+22394;01-03-2022;The Shillong Co-Operative Urban Bank Ltd;1737;333,46;1030
+22395;01-03-2022;The Shahada Peoples Co Op Bank Ltd Shahada;1301;900,82;357
+22396;01-03-2022;The Tamil Nadu Industrial Co-Operative Bank Ltd.;2771;152,44;1709
+22397;01-03-2022;The Satara Dcc Bank Ltd., Satara;22383;3029,09;6115
+22398;01-03-2022;The Saurashtra Co-Operative Bank Ltd.;7570;1916,67;2034
+22399;01-03-2022;The Rajasthan State Co-Operative Bank Ltd.;146;17,18;103
+22400;01-03-2022;The Ranuj Nagrik Sahakari Bank Ltd;1348;377,59;520
+22401;01-03-2022;The Sabarkantha Dist. Central Co-Op Bank Ltd.;32280;17168,45;22170
+22402;01-03-2022;The Salem District Central Co-Operative Bank Ltd.;733;33,27;514
+22403;01-03-2022;The Rajkot Commercial Co-Operative Bank Ltd;2280;1348,54;312
+22404;01-03-2022;The Sankheda Nagarik Sahakari Bank Ltd;217;106,33;188
+22405;01-03-2022;The Santrampur Urban Co Op Bank Ltd;383;505,45;170
+22406;01-03-2022;The Sarangpur Co Op Bank Ltd;1385;1660,16;409
+22407;01-03-2022;The Sarvodaya Sahakari Bank Ltd.;13964;7708,94;4248
+22408;01-03-2022;The Sangamner Merchants Co-Op. Bank Ltd.;5651;1850,57;568
+22409;01-04-2022;The Adilabad Dist. Coop. Central Bank Ltd., Adilabad;603;78,57;468
+22410;01-04-2022;Tamluk Ghatal Central Co-Operative Bank Ltd.;22;0,44;5
+22411;01-04-2022;Telangana Grameena Bank;41483;8538,24;16196
+22412;01-04-2022;Textile Traders Cooperative Bank Limited;7413;4043,07;1012
+22413;01-04-2022;Thane Bharat Sahakari Bank Limited;16761;1900,79;3583
+22414;01-04-2022;The 0Ambur Co-Operative Urban Bank Ltd.;18205;3362,61;7534
+22415;01-04-2022;The Nilgiris District Central Co Operative Bank Ltd;255;33,09;86
+22416;01-04-2022;Tamilnad Mercantile Bank Ltd;902586;211229,58;193107
+22417;01-04-2022;The Accountant Generals Office Employees Co-Operative Bank Limited;697;105,18;569
+22418;01-04-2022;The Adarsh Co-Op. Urban Bank Ltd.;11019;3850,67;1241
+22419;01-04-2022;The Adinath Co-Operative Bank Ltd.;902;377,76;835
+22420;01-04-2022;The Akola Janata Commercial Co-Op. Bank Ltd., Akola;18927;7167,15;4825
+22421;01-04-2022;The Ahmedabad Mercantile Co-Op. Bank Ltd.;236030;54694,83;2249
+22422;01-04-2022;The Ajara Urban Co-Op. Bank Ltd., Ajara;2747;218,43;590
+22423;01-04-2022;The Akola District Central Co-Operative Bank Ltd., Akola;58136;111547,38;13739
+22424;01-04-2022;The Amaravati Zillha Parishad Shikshak Sah. Bank Ltd Amravati;2598;308,73;1473
+22425;01-04-2022;The Anand Mercantile Co.Operative Bank Ltd;6549;1270,08;3303
+22426;01-04-2022;The Andhra Pradesh State Co-Operative Bank Ltd.;4737;845,75;1237
+22427;01-04-2022;The Ashta Peoples Co-Op Bank Ltd Ashta;901;101,72;157
+22428;01-04-2022;Bombay Mercantile Co-Operative Bank Limited;6073;1472,58;1438
+22429;01-04-2022;Bhilwara Urban Cooperative Bank Ltd;10931;540,63;479
+22430;01-04-2022;Bhavnagar District Co-Operative Bank Ltd;4595;1306,52;3377
+22431;01-04-2022;Tamil Nadu State Apex Co-Op. Bank;3335;313,2;3169
+22432;01-04-2022;The Ahmedabad District Co-Operative Bank Ltd;694445;36293,8;863
+22433;01-04-2022;Swatantrya Senani Late Shripal Alase (Kaka) Kurundwad Urban Co-Op Bank Ltd., Kurundwad;106;11,94;40
+22434;01-04-2022;Shree Warana Bank Ltd.;7002;1764,82;3912
+22435;01-04-2022;Suryoday Small Finance Bank Limited;78095;21125,58;21714
+22436;01-04-2022;Shree Talaja Nagrik Shakari Bank Ltd.;452;311,59;96
+22437;01-04-2022;Bhavana Rishi Cooperative Urban Bank Ltd;1793;510,38;1549
+22438;01-04-2022;Shri Anand Nagari Sahakari Bank Ltd.;263;32,51;89
+22439;01-04-2022;Shri Arihant Co-Op Bank Ltd;9089;3295,9;1781
+22440;01-04-2022;Shri Chhatrapati Rajarshi Shahu Urban Co-Op. Bank Ltd., Beed;358419;27116,32;11064
+22441;01-04-2022;Shri Janata Sahakari Bank Ltd Halol;6419;2479,39;992
+22442;01-04-2022;Shri Mahalaxmi Co-Op. Bank Ltd., Kolhapur;2552;236,53;586
+22443;01-04-2022;Shri Mahila Sewa Sahakari Bank Ltd.;404;23,01;217
+22444;01-04-2022;Shri Rajkot District Central Co-Op Bank Ltd.;16447;1767,24;13451
+22445;01-04-2022;Shri Shivayogi Murughendra Swami Urbanco-Op. Bank Ltd., Athani;36;29,37;23
+22446;01-04-2022;Shrikrishna Co-Operative Bank Ltd., Umred;51;57,76;43
+22447;01-04-2022;Svc Co Op Bank Ltd;3369391;64883,56;23580
+22448;01-04-2022;Sikkim State Co-Operative Bank Ltd;178;39,24;48
+22449;01-04-2022;Sivagangai District Central Co-Operative Bank Ltd;67;3,24;30
+22450;01-04-2022;South Indian Bank;23663571;861221,26;1311119
+22451;01-04-2022;Sree Charan Souhardha Co-Operative Bank Ltd.;23196;240,4;2631
+22452;01-04-2022;Sreenidhi Souharda Sahakari Bank Niyamitha;294;27,97;77
+22453;01-04-2022;Sri Ganapathi Urban Co-Op. Bank Ltd.,ï¿½ï¿½ï;67;6,32;22
+22454;01-04-2022;Sri Rama Co-Op Bank Ltd;24;1,76;21
+22455;01-04-2022;Sri Sudha Co-Operative Bank Ltd;110;36,32;96
+22456;01-04-2022;State Bank Of India;1424391736;36970035,45;86416331
+22457;01-04-2022;Suco Souharda Sahakari Bank Ltd.;6632;7503,19;1221
+22458;01-04-2022;Sundarlal Sawji Urban Co-Op Bank Ltd., Jintur;13393;8189,85;6465
+22459;01-04-2022;Surat National Co-Op Bank Ltd.;26113;20180,21;3833
+22460;01-04-2022;Sindhudurg District Central Co. Operative Bank Ltd. Sindhudurg;8413;886,23;2993
+22461;01-04-2022;Bharat Bank Cooperative (Mum) Ltd.;2330905;121592,49;41426
+22462;01-04-2022;Ambajogai Peoples Co Op Bank Ltd.,Ambajogai;2542;1244,97;627
+22463;01-04-2022;Bhadradri Co Operative Urban Bank Ltd;34579;1701,67;3171
+22464;01-04-2022;Adarsh Mahila Nagari Sahkari Bank Ltd Aurangabad;576;38,5;197
+22465;01-04-2022;Adarsh Co-Operative Bank;205601;25265,25;8333
+22466;01-04-2022;Abhyudaya Co-Op. Bank Ltd.;3698406;71034,32;203842
+22467;01-04-2022;Abhinav Sahakari Bank Ltd, Dombivali;6901;1431,28;5613
+22468;01-04-2022;Abhinandan Urban Co-Op Bank Ltd., Amravati;1722;647,31;300
+22469;01-04-2022;A P Mahesh Co-Op Urban Bank Ltd;8001;3046,24;7879
