@@ -1,14 +1,23 @@
 const express = require("express");
-const router = express.Router();
+const multer = require("multer");
 
 const {
   createSummary,
   getSummaries,
-    getSummaryById
+  getSummaryById,
+  deleteSummary
 } = require("../controllers/summaryController");
 
-router.post("/summaries", createSummary);
+const router = express.Router();
+
+const upload = multer({ dest: "uploads/" });
+
+router.post("/upload", upload.single("file"), createSummary);
+
 router.get("/summaries", getSummaries);
-router.get("/summaries/:id", getSummaryById);   
+
+router.get("/summaries/:id", getSummaryById);
+
+router.delete("/summaries/:id", deleteSummary);
 
 module.exports = router;
