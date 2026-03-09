@@ -7,6 +7,16 @@ exports.createSummary = async (req, res) => {
 
   const file = req.file;
 
+  if (!file.originalname.toLowerCase().endsWith(".csv")) {
+  logger.warn(`Invalid file type uploaded: ${file.originalname}`);
+
+  fs.unlink(file.path, () => {}); // delete invalid upload
+
+  return res.status(400).json({
+    error: "Only CSV files are allowed"
+  });
+}
+
   if (!file) {
     logger.warn("No CSV file uploaded");
     return res.status(400).json({ error: "CSV file required" });
@@ -56,13 +66,15 @@ exports.createSummary = async (req, res) => {
 
       .on("error", (err) => {
 
-        logger.error(`CSV parse error: ${err.message}`);
+  logger.error(`CSV parse error: ${err.message}`);
 
-        res.status(500).json({
-          error: "CSV processing failed"
-        });
+  fs.unlink(file.path, () => {}); // cleanup on error
 
-      });
+  res.status(500).json({
+    error: "CSV processing failed"
+  });
+
+});
 
   } catch (err) {
 

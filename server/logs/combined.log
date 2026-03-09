@@ -12,3 +12,9 @@
 2026-03-09T05:10:25.081Z [INFO] Summary stored for file: UCI_Credit_Card.csv
 2026-03-09T05:20:36.322Z [INFO] Server running on port 5000
 2026-03-09T05:20:41.499Z [INFO] Summary stored for file: UCI_Credit_Card.csv
+2026-03-09T05:32:57.481Z [INFO] Server running on port 5000
+2026-03-09T05:33:45.753Z [INFO] Summary stored for file: UCI_Credit_Card.csv
+2026-03-09T05:34:20.952Z [INFO] Summary stored for file: agridata_csv.csv
+2026-03-09T05:37:46.688Z [ERROR] CSV parse error: Invalid Opening Quote: a quote is found on field 0 at line 1, value is "const fs = require("
+2026-03-09T05:38:49.927Z [ERROR] CSV parse error: Invalid Record Length: columns length is 1, got 2 on line 2
+2026-03-09T06:06:18.395Z [INFO] Server running on port 5000
